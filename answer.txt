@@ -5,3 +5,8 @@ Some cons of Agile are that there is additional overhead caused by structured me
 b. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 The Scrum Master facilitates all Scrum specific activities like JIRA and sprints.
 The Product Owner sets direction for the team and manages the interactions with stakeholders.
+
+c. What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+There is the Sprint Planning Meeting in which it is determined which stories will be completed, how hard they are, and who will do them.
+There are Daily Scrum meetings in which team members discuss work completed, their plan for the day, and any blockers they have encountered.
+There is a Sprint Retrospective Meeting in which members discuss work completed and incomplete stories are moved back to the backlog.

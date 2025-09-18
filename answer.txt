@@ -1,0 +1,3 @@
+a. What are some Pros and Cons of Agile development (vs non-Agile)? List 2 of each.
+Some pros of Agile are that it is an iterative approach with constant collaboration with the customers and that it provides consistent value adds to the customer.
+Some cons of Agile are that there is additional overhead caused by structured meetings and that developers may lose the "flow" of getting work done because of intermitten project management and oversight as opposed to a waterfall approach.

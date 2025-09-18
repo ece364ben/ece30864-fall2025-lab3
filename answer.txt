@@ -10,3 +10,9 @@ c. What are the 3 types of meetings that happen during a sprint cycle? List at l
 There is the Sprint Planning Meeting in which it is determined which stories will be completed, how hard they are, and who will do them.
 There are Daily Scrum meetings in which team members discuss work completed, their plan for the day, and any blockers they have encountered.
 There is a Sprint Retrospective Meeting in which members discuss work completed and incomplete stories are moved back to the backlog.
+
+d. Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+An Epic is the largest block within the hierarchy of JIRA organization. It is a large body of work to be broken down into smaller stories.
+A Story is a specific software requirement expressed within a few sentences. Stories are usually focused around business value. They address a requirement of the project.
+A Task is a more specific or smaller issue than a story. Tasks can be to-dos that are not necessarily user facing or complete business requirements.
+A Bug is a problem with the code that needs to be fixed.
